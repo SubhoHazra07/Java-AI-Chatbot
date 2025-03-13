@@ -5,4 +5,4 @@ langchain-core
 langchain-google-genai
 google-generativeai
 sentence-transformers
-pinecone-client
+pinecone
