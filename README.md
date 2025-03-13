@@ -53,6 +53,9 @@ The Pookie Chatbot project aims to create a Java-based AI chatbot that seamlessl
 
 ## Architecture
 
+![Diagram](https://github.com/user-attachments/assets/850629cc-3d88-4a9f-a3c1-a3f54da2a50f)
+
+
 1. **User Input**: Users ask Java-related questions through the Streamlit-based web interface.  
 2. **Query Processing**: The chatbot understands the user's question using NLP and breaks it down into meaningful components.  
 3. **Text Chunking**: Relevant Java-related reference materials (PDFs, documentation, etc.) are split into smaller text chunks.  
